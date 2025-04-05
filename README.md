@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **React Project**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-
-<p align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
@@ -17,7 +15,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
