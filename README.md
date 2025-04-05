@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
-  <a href="www.linkedin.com/in/ranajit-hazra-0827b7292">
+  <a href="https://www.linkedin.com/in/ranajit-hazra-0827b7292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
