@@ -12,8 +12,8 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<div align="center">
-  <a href="www.linkedin.com/in/ranajit-hazra-0827b7292" target="_blank">
+<div>
+  <a href="www.linkedin.com/in/ranajit-hazra-0827b7292">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
